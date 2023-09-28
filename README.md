@@ -1,0 +1,5 @@
+ - Download this project
+ - Install NodeJS on your machine (https://nodejs.org/en/download)
+ - Go to the project folder in command prompt
+ - type 'npm install', press enter
+ - type 'npm start', press enter
